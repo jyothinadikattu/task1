@@ -12,4 +12,6 @@ Correct and incorrect options are visually highlighted for better learning.
 Users can navigate through questions and see their final score at the end.
 The app runs entirely in the browser and requires no backend setup.
 output:
+![Image](https://github.com/user-attachments/assets/a6d60b7a-4c7e-4f3f-8b9b-5dba9a82d3b0)
 
+![Image](https://github.com/user-attachments/assets/6777be6f-b52a-46f0-aa2a-cef0555650c4)
